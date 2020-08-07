@@ -11,7 +11,6 @@ namespace PriorityQueueProject
             int choice, element, elementPriority;
 
             PriorityQueueL pq = new PriorityQueueL();
-
             while (true)
             {
                 Console.WriteLine("1.Insert a new  element ");
